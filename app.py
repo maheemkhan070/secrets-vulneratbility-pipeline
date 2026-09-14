@@ -1,5 +1,5 @@
 name = "Nemo"
-age = "20"
-content = "is (age) years old"
+age = 20
+content = f"is {age} years old"
 
-print = (name) + " " + (content)
+print(name + " " + content)
