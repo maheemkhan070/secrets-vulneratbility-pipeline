@@ -1,1 +1,1 @@
-# secrets-vulneratbility-pipeline
+# secrets-vulnerability-pipeline
